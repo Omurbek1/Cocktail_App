@@ -1,0 +1,24 @@
+.text{
+    align-items: center;
+    
+}
+.h1{
+    font-size: 56px;
+    margin-left: 250px;
+}
+
+p{
+    margin-left: 200px;
+    font-size: 28px;
+}
+.b{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+li{
+    margin-left: 90px;
+    margin-bottom: 10px;
+    font-size: 28px;
+    text-decoration-color: aqua;
+}
+
